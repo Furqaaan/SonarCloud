@@ -1,0 +1,1 @@
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Furqaaan_SonarCloud)](https://sonarcloud.io/summary/new_code?id=Furqaaan_SonarCloud)
